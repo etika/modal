@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["etikaahuja@gmail.com"]
 
   spec.summary       = %q{Creates a modal}
-  spec.description   = %q{create modal using modal js and css}
+  spec.description   = %q{create modal using modal javascript plugin js and css}
   # spec.homepage      = " Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
