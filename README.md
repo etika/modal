@@ -21,8 +21,10 @@ Or install it yourself as:
     $ gem install modal
 
 ## Usage
-
-TODO: Write usage instructions here
+- Its a rails gem for leanmodal javascript modal plugin
+- Add gem 'modal' to gemfile
+- Add require 'modal' in application.css and application.js
+- Add css for the modal which is to be shown
 
 ## Development
 
